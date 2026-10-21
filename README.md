@@ -1,4 +1,4 @@
-# Ahmad Islam — Full Stack Engineer
+# Ahmad Islam — Software Engineer
 
 > I build complete business systems from scratch.
 > No frameworks forced. No AI. No copy paste.
